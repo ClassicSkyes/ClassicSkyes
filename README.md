@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/C++-005085?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Linux-d94100?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+### 🌱 My everyday apps:
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
